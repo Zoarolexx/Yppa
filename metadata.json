@@ -1,0 +1,6 @@
+{
+  "name": "WeTalk",
+  "description": "WeTalk is a real-time messaging application.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
